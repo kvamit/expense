@@ -32,29 +32,27 @@
     [
         "/Users/avajpeyi/expense/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1519598148379,
             "changeTime": 1519598148379,
-            "contentHash": "b443158adc69cfd43a4521fdf9981515deab156c"
+            "contentHash": "b443158adc69cfd43a4521fdf9981515deab156c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/avajpeyi/expense/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1519532539455,
-            "changeTime": 1519532539455,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 96,
+            "modifiedTime": 1519598374864,
+            "changeTime": 1519598374864,
+            "contentHash": "dee346b4fcb59030fbf995dee28f312e01227c69"
         }
     ],
     [
@@ -270,40 +268,79 @@
     [
         "/Users/avajpeyi/expense/force-app/main/default/classes/myclass.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/classes/myclass.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1519598148381,
             "changeTime": 1519598148381,
-            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/avajpeyi/expense/force-app/main/default/classes/myclass.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/classes/myclass.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 25,
             "modifiedTime": 1519598148383,
             "changeTime": 1519598148383,
-            "contentHash": "008cb8dfdae9cd2061e81560df6c06880de3c9f6"
+            "contentHash": "008cb8dfdae9cd2061e81560df6c06880de3c9f6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/avajpeyi/expense/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1519598148383,
             "changeTime": 1519598148383,
-            "contentHash": "1387212d946b8dbeaa67d0edf5d37c299bfd18d6"
+            "contentHash": "1387212d946b8dbeaa67d0edf5d37c299bfd18d6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/avajpeyi/expense/force-app/main/default/aura/mycomponent/mycomponent.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/aura/mycomponent/mycomponent.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1519598374866,
+            "changeTime": 1519598374866,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772"
+        }
+    ],
+    [
+        "/Users/avajpeyi/expense/force-app/main/default/aura/mycomponent/mycomponent.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/aura/mycomponent/mycomponent.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 237,
+            "modifiedTime": 1519598374867,
+            "changeTime": 1519598374867,
+            "contentHash": "ae29a8376749007bf71795dc0ac57a9a9bb8d9fa"
+        }
+    ],
+    [
+        "/Users/avajpeyi/expense/force-app/main/default/aura/mycomponent",
+        {
+            "state": "u",
+            "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/aura/mycomponent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1519598374867,
+            "changeTime": 1519598374867,
+            "contentHash": "8725b1827d657b8d0be0a2e218d1ed0ac39ed4cd"
         }
     ]
 ]
