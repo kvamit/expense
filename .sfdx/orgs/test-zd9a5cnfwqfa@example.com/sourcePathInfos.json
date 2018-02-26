@@ -9,7 +9,7 @@
             "changeTime": 1519532539454,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -24,7 +24,7 @@
             "changeTime": 1519532539454,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -34,10 +34,10 @@
         {
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default",
             "isDirectory": true,
-            "size": 224,
-            "modifiedTime": 1519598148379,
-            "changeTime": 1519598148379,
-            "contentHash": "b443158adc69cfd43a4521fdf9981515deab156c",
+            "size": 320,
+            "modifiedTime": 1519601148526,
+            "changeTime": 1519601148526,
+            "contentHash": "79c06446f93f42ea16a538e1f9352afa1a799001",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -45,14 +45,14 @@
     [
         "/Users/avajpeyi/expense/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
-            "modifiedTime": 1519598374864,
+            "modifiedTime": 1519600653538,
             "changeTime": 1519598374864,
-            "contentHash": "dee346b4fcb59030fbf995dee28f312e01227c69"
+            "contentHash": "dee346b4fcb59030fbf995dee28f312e01227c69",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -60,14 +60,13 @@
         {
             "sourcePath": "/Users/avajpeyi/expense",
             "isDirectory": true,
-            "size": 288,
-            "modifiedTime": 1519532586058,
-            "changeTime": 1519532586058,
-            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "size": 384,
+            "modifiedTime": 1519534962004,
+            "changeTime": 1519534962004,
+            "contentHash": "ccb687ea2efa7635bcc1df797f23ce7784aaf829",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
@@ -153,10 +152,10 @@
         {
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 18452,
-            "modifiedTime": 1519533295081,
-            "changeTime": 1519533295081,
-            "contentHash": "7714a9881cfab114b3200211199f9794e42115e9",
+            "size": 18869,
+            "modifiedTime": 1519601148576,
+            "changeTime": 1519601148576,
+            "contentHash": "fbf266662f4acd300d3bf1f965d19071cf80f556",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -166,10 +165,10 @@
         {
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 5063,
-            "modifiedTime": 1519533295085,
-            "changeTime": 1519533295085,
-            "contentHash": "4b2a0c7abb2daaa980ac0613b17ab26bcf188785",
+            "size": 5481,
+            "modifiedTime": 1519601148593,
+            "changeTime": 1519601148593,
+            "contentHash": "e1d942289f293b9372ed230e4357aeb3f0a4a644",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -179,10 +178,10 @@
         {
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 5401,
-            "modifiedTime": 1519533295088,
-            "changeTime": 1519533295088,
-            "contentHash": "fedfbb03d2f8208b4a53eb583466d339363eaf80",
+            "size": 5819,
+            "modifiedTime": 1519601148603,
+            "changeTime": 1519601148603,
+            "contentHash": "7c98e608cc9e04d94a1c703a4e1e93934bc0c02f",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -192,10 +191,10 @@
         {
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 5063,
-            "modifiedTime": 1519533295097,
-            "changeTime": 1519533295097,
-            "contentHash": "4b2a0c7abb2daaa980ac0613b17ab26bcf188785",
+            "size": 5481,
+            "modifiedTime": 1519601148614,
+            "changeTime": 1519601148614,
+            "contentHash": "e1d942289f293b9372ed230e4357aeb3f0a4a644",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -307,40 +306,144 @@
     [
         "/Users/avajpeyi/expense/force-app/main/default/aura/mycomponent/mycomponent.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/aura/mycomponent/mycomponent.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1519598374866,
             "changeTime": 1519598374866,
-            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772"
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/avajpeyi/expense/force-app/main/default/aura/mycomponent/mycomponent.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/aura/mycomponent/mycomponent.cmp",
             "isDirectory": false,
+            "size": 1795,
+            "modifiedTime": 1519606065339,
+            "changeTime": 1519606065339,
+            "contentHash": "35e6a48016b2d72d2e24ed25b84a9c46acb779d1",
             "isMetadataFile": false,
-            "size": 237,
-            "modifiedTime": 1519598374867,
-            "changeTime": 1519598374867,
-            "contentHash": "ae29a8376749007bf71795dc0ac57a9a9bb8d9fa"
+            "state": "u"
         }
     ],
     [
         "/Users/avajpeyi/expense/force-app/main/default/aura/mycomponent",
         {
-            "state": "u",
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/aura/mycomponent",
             "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1519601148518,
+            "changeTime": 1519601148518,
+            "contentHash": "4be85c41d412a286ea86eb49271c1c5ca0e2aae3",
             "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/avajpeyi/expense/force-app/main/default/aura/mycomponent/mycomponentController.js",
+        {
+            "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/aura/mycomponent/mycomponentController.js",
+            "isDirectory": false,
+            "size": 790,
+            "modifiedTime": 1519601319818,
+            "changeTime": 1519601319818,
+            "contentHash": "2f3c85b0bb7e44a8e7a14e0e3a94c95f39554037",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/avajpeyi/expense/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6239,
+            "modifiedTime": 1519606578360,
+            "changeTime": 1519606578360,
+            "contentHash": "51aa4d924688e21fd86f2b67eec7386ad705a1f7"
+        }
+    ],
+    [
+        "/Users/avajpeyi/expense/force-app/main/default/flexipages/Expense_App.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/flexipages/Expense_App.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 480,
+            "modifiedTime": 1519601148523,
+            "changeTime": 1519601148523,
+            "contentHash": "e9d9a28fab34bf1183886478bb9a14666a78cc7f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/avajpeyi/expense/force-app/main/default/tabs/Expense_App.tab-meta.xml",
+        {
+            "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/tabs/Expense_App.tab-meta.xml",
+            "isDirectory": false,
+            "size": 316,
+            "modifiedTime": 1519601148525,
+            "changeTime": 1519601148525,
+            "contentHash": "f9c11fee719848c304ded62de35413350b7802a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/avajpeyi/expense/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+        {
+            "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "size": 912,
+            "modifiedTime": 1519601148526,
+            "changeTime": 1519601148526,
+            "contentHash": "142767f287758f852a46f81657ae99a0a9edc3e8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/avajpeyi/expense/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/flexipages",
+            "isDirectory": true,
             "size": 128,
-            "modifiedTime": 1519598374867,
-            "changeTime": 1519598374867,
-            "contentHash": "8725b1827d657b8d0be0a2e218d1ed0ac39ed4cd"
+            "modifiedTime": 1519601148523,
+            "changeTime": 1519601148523,
+            "contentHash": "68e47ae8f684f7e72583014fa2592f8228517652",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/avajpeyi/expense/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1519601148524,
+            "changeTime": 1519601148524,
+            "contentHash": "e63b665a079b1467768f4fb34cbf3b58a7bc329b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/avajpeyi/expense/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1519601148526,
+            "changeTime": 1519601148526,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
