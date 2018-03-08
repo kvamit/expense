@@ -1,0 +1,19 @@
+<aura:component implements="force:appHostable, flexipage:availableForAllPageTypes">
+    <aura:attribute name="expense" type="expense__c"/>
+    <lightning:card variant="Narrow" title="{!v.expense.Name}" iconName="custom.custom5">
+
+        <aura:set attribute="actions">
+            <lightning:button name="details" label="details" onclick="{!c.goToRecord}" />
+        </aura:set>
+
+        <aura:set attribute="footer">
+            <lightning:badge label="{!v.expense.Type__c}"/>
+        </aura:set>
+
+        <p class="slds-p-horizontal_small">{!v.expense.Amount__c}</p>
+        <p class="slds-p-horizontal_small">{!v.expense.Client__c}</p>
+        <p class="slds-p-horizontal_small">{!v.expense.Date__c}</p>
+        <p class="slds-p-horizontal_small">{!v.expense.Reimbursed__c}</p>
+
+    </lightning:card>
+</aura:component>	

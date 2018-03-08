@@ -52,7 +52,8 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <externalSharingModel>ReadWrite</externalSharingModel>
+     <sharingModel>ReadWrite</sharingModel>
+    
     <label>Expense</label>
     <nameField>
         <label>Expense Name</label>
@@ -60,6 +61,5 @@
     </nameField>
     <pluralLabel>Expenses</pluralLabel>
     <searchLayouts/>
-    <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
