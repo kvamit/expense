@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>CustomApplication</name>
+    <members>Expense_Application</members>
+    <members>standard__LightningSales</members>
+  </types>
+  <types>
+    <name>AuraDefinitionBundle</name>
+    <members>ExpenseList</members>
+    <members>Expenses</members>
+    <members>Utils</members>
+    <members>XMLHttpRequest</members>
+    <members>mycomponent</members>
+  </types>
+  <types>
+    <name>ApexClass</name>
+    <members>ExpenseController</members>
+  </types>
+  <types>
+    <name>CspTrustedSite</name>
+    <members>GoogleMaps</members>
+  </types>
+  <types>
+    <name>FlexiPage</name>
+    <members>Account_Record_Page</members>
+    <members>Expense_App</members>
+    <members>Expense_Application_UtilityBar</members>
+  </types>
+  <types>
+    <name>Layout</name>
+    <members>Expense__c-Expense Layout</members>
+  </types>
+  <types>
+    <name>CustomObject</name>
+    <members>Expense__c</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>Expense__c.Amount__c</members>
+    <members>Expense__c.Client__c</members>
+    <members>Expense__c.Date__c</members>
+    <members>Expense__c.Reimbursed__c</members>
+    <members>Expense__c.Type__c</members>
+  </types>
+  <types>
+    <name>Profile</name>
+    <members>Admin</members>
+    <members>Custom%3A Marketing Profile</members>
+    <members>Custom%3A Sales Profile</members>
+    <members>Custom%3A Support Profile</members>
+  </types>
+  <types>
+    <name>CustomTab</name>
+    <members>Expense_App</members>
+    <members>Expense__c</members>
+  </types>
+  <version>42.0</version>
+  <fullName>package_name</fullName>
+</Package>

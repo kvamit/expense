@@ -1,0 +1,59 @@
+<aura:component implements="force:appHostable, flexipage:availableForAllPageTypes" controller="ExpenseController">
+    <!-- Handle component initialization in a client-side controller -->
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+    
+    <!-- Dynamically load the list of expenses -->
+    <aura:attribute name="expenses" type="expense__c[]"/>
+    <aura:attribute name="expenseList" type="expense__c[]"/>
+    <aura:attribute name="totalExpenses" type="Integer"/>
+    <aura:attribute name="myinputvar" type="String" />
+    
+    <!-- Page header with a counter that displays total number of expenses -->
+    <div class="slds-page-header slds-page-header_object-home">
+        <lightning:layout>
+            <lightning:layoutItem>
+                <lightning:icon iconName="standard.contact" />
+            </lightning:layoutItem>
+            <lightning:layoutItem class="slds-m-left_small">
+                <p class="slds-text-title_caps slds-line-height_reset">Expenses</p>
+                <h1 class="slds-page-header__title slds-p-right_x-small">Expense Viewer</h1>
+            </lightning:layoutItem>
+        </lightning:layout>
+        
+        <lightning:layout>
+            <lightning:layoutItem>
+                <p class="slds-text-body_small">{!v.totalExpenses} Expenses • View Expenses Based on Types</p>
+            </lightning:layoutItem>
+        </lightning:layout>
+        
+    </div>
+
+    <!-- Body with dropdown menu and list of contacts -->
+    <lightning:layout>
+        <lightning:layoutItem padding="horizontal-medium" >
+            <!-- Create a dropdown menu with options -->
+            <lightning:select aura:id="select" label="Lead Source" name="source" 
+                              onchange="{!c.handleSelect}" class="slds-m-bottom_medium">
+                <option value="">-- Select an expense type --</option>
+                <option value="Event" text="Event"/>
+                <option value="Lunch" text="Lunch"/>
+                <option value="Dinner" text="Dinner"/>
+                <option value="All" text="All"/>
+            </lightning:select>
+            
+           <!-- <input type="text" aura:id="textInput1" onchange="{!c.changeDetected}"/>-->
+            <input type="text" id="textInput2" onchange="{!c.changeDetected}"/>
+
+            <ui:inputText aura:id="myinput" label="Address" change="{!c.changeDetected}"/>
+            <ui:button aura:id="mysearch" label="Search" press="{!c.mysearch}" />
+            <c:XMLHttpRequest/>
+
+            <!-- Iterate over the list of contacts and display them -->
+            <aura:iteration var="expense" items="{!v.expenses}">
+                <!-- If you’re using a namespace, replace with myNamespace:contacts-->
+                <c:Expenses expense="{!expense}"/>
+            </aura:iteration>
+        </lightning:layoutItem>
+    </lightning:layout>
+
+</aura:component>	
