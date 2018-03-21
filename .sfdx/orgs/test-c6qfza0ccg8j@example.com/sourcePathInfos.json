@@ -47,16 +47,14 @@
     [
         "/Users/avajpeyi/expense/force-app/main/default/applications",
         {
+            "state": "u",
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/applications",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1519601148526,
-            "changeTime": 1519601148526,
-            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 128,
+            "modifiedTime": 1521597019956,
+            "changeTime": 1521597019956,
+            "contentHash": "6cefef84343dd5f4bd38fc4c3b3d06f12d0c9a97"
         }
     ],
     [
@@ -122,15 +120,16 @@
     [
         "/Users/avajpeyi/expense/force-app/main/default/aura/ExpenseList/ExpenseList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/aura/ExpenseList/ExpenseList.cmp",
             "isDirectory": false,
+            "size": 2882,
+            "modifiedTime": 1520620775748,
+            "changeTime": 1520620775748,
+            "contentHash": "fa4c0f98857d6544ede8990d4ece15466861cc89",
             "isMetadataFile": false,
-            "size": 2794,
-            "modifiedTime": 1520561028104,
-            "changeTime": 1520561028104,
+            "state": "u",
             "isWorkspace": false,
-            "contentHash": "8c1e33f1662b4bae905d16a509d0e96abee131c2"
+            "isArtifactRoot": false
         }
     ],
     [
@@ -198,13 +197,14 @@
         {
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/aura/ExpenseList/ExpenseListController.js",
             "isDirectory": false,
-            "size": 1649,
-            "modifiedTime": 1520560791591,
-            "changeTime": 1520560791591,
-            "contentHash": "91a9f29bbd787d57eb36822ae887aebeb4e355c5",
+            "size": 1683,
+            "modifiedTime": 1520620826252,
+            "changeTime": 1520620826252,
+            "contentHash": "18e4e7f0966e077f85311042ed0cc82a7e4ec6cc",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -825,16 +825,14 @@
     [
         "/Users/avajpeyi/expense/force-app/main/default/flexipages",
         {
+            "state": "u",
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/flexipages",
             "isDirectory": true,
-            "size": 128,
-            "modifiedTime": 1519601148523,
-            "changeTime": 1519601148523,
-            "contentHash": "68e47ae8f684f7e72583014fa2592f8228517652",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 160,
+            "modifiedTime": 1521597019955,
+            "changeTime": 1521597019955,
+            "contentHash": "cc7512a0a680c04b0995a731c4ba4b40d1a7dcb2"
         }
     ],
     [
@@ -938,7 +936,8 @@
             "contentHash": "9db77d30c4a34d8c56878ed5d384424e64d0dfea",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1049,14 +1048,14 @@
     [
         "/Users/avajpeyi/expense/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 18917,
-            "modifiedTime": 1520539643818,
-            "changeTime": 1520539643818,
-            "contentHash": "5e3bff2f9841b9b993e80758870a5c7da7147f22",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 19098,
+            "modifiedTime": 1521597019997,
+            "changeTime": 1521597019997,
+            "contentHash": "82dcc6e57dc0b390fdb1702051b8d747b8d840fe"
         }
     ],
     [
@@ -1070,7 +1069,8 @@
             "contentHash": "3e2c66216ab4f10cef112bb75c9ea9188bb1d755",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1084,7 +1084,8 @@
             "contentHash": "fec226897ee68a06134df17b2e7355197520d05d",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1098,7 +1099,8 @@
             "contentHash": "ffb97115bd1f9386b0659f3bf9864471f8ec1aab",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1159,6 +1161,32 @@
             "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/avajpeyi/expense/force-app/main/default/flexipages/Expense_Application_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/flexipages/Expense_Application_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 393,
+            "modifiedTime": 1521597019955,
+            "changeTime": 1521597019955,
+            "contentHash": "d24041b7988bf15407dad4b30badaf55a563dbb9"
+        }
+    ],
+    [
+        "/Users/avajpeyi/expense/force-app/main/default/applications/Expense_Application.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/applications/Expense_Application.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 580,
+            "modifiedTime": 1521597019956,
+            "changeTime": 1521597019956,
+            "contentHash": "a7c186663dff84e7f0c8118a6ca1238e21117476"
         }
     ]
 ]

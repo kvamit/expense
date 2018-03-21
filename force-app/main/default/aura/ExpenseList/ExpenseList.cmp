@@ -41,7 +41,10 @@
                 <option value="All" text="All"/>
             </lightning:select>
             
-            <ui:inputText aura:id="myinput" label="Address"/>
+           <!-- <input type="text" aura:id="textInput1" onchange="{!c.changeDetected}"/>-->
+            <input type="text" id="textInput2" onchange="{!c.changeDetected}"/>
+
+            <ui:inputText aura:id="myinput" label="Address" change="{!c.changeDetected}"/>
             <ui:button aura:id="mysearch" label="Search" press="{!c.mysearch}" />
             <c:XMLHttpRequest/>
 

@@ -122,16 +122,15 @@
     [
         "/Users/avajpeyi/expense/force-app/main/default/aura/ExpenseList/ExpenseList.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/aura/ExpenseList/ExpenseList.cmp",
             "isDirectory": false,
-            "size": 2680,
-            "modifiedTime": 1520223570048,
-            "changeTime": 1520223570048,
-            "contentHash": "d0688af5d89c30dcf6e91b9799b260f53964ed8c",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 2882,
+            "modifiedTime": 1520620775748,
+            "changeTime": 1520620775748,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "fa4c0f98857d6544ede8990d4ece15466861cc89"
         }
     ],
     [
@@ -197,16 +196,15 @@
     [
         "/Users/avajpeyi/expense/force-app/main/default/aura/ExpenseList/ExpenseListController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/aura/ExpenseList/ExpenseListController.js",
             "isDirectory": false,
-            "size": 1371,
-            "modifiedTime": 1520220337393,
-            "changeTime": 1520220337393,
-            "contentHash": "fa73a6fc99a615541b134211732a396eb307f725",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 1683,
+            "modifiedTime": 1520620826252,
+            "changeTime": 1520620826252,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "18e4e7f0966e077f85311042ed0cc82a7e4ec6cc"
         }
     ],
     [
@@ -1051,14 +1049,14 @@
     [
         "/Users/avajpeyi/expense/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/avajpeyi/expense/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 18917,
             "modifiedTime": 1520539643818,
             "changeTime": 1520539643818,
-            "contentHash": "5e3bff2f9841b9b993e80758870a5c7da7147f22"
+            "contentHash": "5e3bff2f9841b9b993e80758870a5c7da7147f22",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
