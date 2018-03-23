@@ -44,6 +44,10 @@
     <members>Expense__c.Type__c</members>
   </types>
   <types>
+    <name>PermissionSet</name>
+    <members>Expense_Permset</members>
+  </types>
+  <types>
     <name>Profile</name>
     <members>Admin</members>
     <members>Custom%3A Marketing Profile</members>
