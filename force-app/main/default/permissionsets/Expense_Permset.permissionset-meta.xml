@@ -41,6 +41,10 @@
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <tabSettings>
+        <tab>Expense_App</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+    <tabSettings>
         <tab>Expense__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
